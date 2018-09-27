@@ -9,8 +9,6 @@ axios.get('https://tradingeconomics.com/united-states/indicators')
             const $ = cheerio.load(html); 
             let data = [];
             let counter = 0
-            let containerDivId = "ctl00_ContentPlaceHolder1_ctl00_Panel1"
-            let eachTableName = ".table"
             $('tr').each((i, elm) => {
                 let description = $(elm).children().eq(0).first().text().trim()
                 let value = $(elm).children().eq(1).first().text().trim().split("\n")[0]
@@ -21,19 +19,9 @@ axios.get('https://tradingeconomics.com/united-states/indicators')
                     counter++;
                 }
             })
-            // $('.single-article').each(function(i, elem) {
-            //     devtoList[i] = {
-            //         title: $(this).find('h3').text().trim(),
-            //         url: $(this).children('.index-article-link').attr('href'),
-            //         tags: $(this).find('.tags').text().split('#')
-            //               .map(tag =>tag.trim())
-            //               .filter(function(n){ return n != "" })
-            //     }      
-            // });
-            // const devtoListTrimmed = devtoList.filter(n => n != undefined )
             fs.writeFile('UnitedStates.json', 
                           JSON.stringify(data, null, 4), 
-                          (err)=> console.log('File successfully written!'))
+                          (err)=> console.log('File successfully created'))
     }
 }, (error) => console.log(err) );
 
@@ -41,3 +29,5 @@ axios.get('https://tradingeconomics.com/united-states/indicators')
 function isNumeric(n) {
     return !isNaN(parseFloat(n));
   }
+
+  // Convert none USD fields to USD standard for comparison
