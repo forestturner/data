@@ -1,0 +1,596 @@
+[
+    {
+        "GDP Growth Rate": 4.2
+    },
+    {
+        "Unemployment Rate": 3.9
+    },
+    {
+        "Inflation Rate": 2.7
+    },
+    {
+        "Interest Rate": 2.25
+    },
+    {
+        "Balance of Trade": -50082
+    },
+    {
+        "Government Debt to GDP": 105
+    },
+    {
+        "Currency": 94.6
+    },
+    {
+        "Stock Market": 26385
+    },
+    {
+        "Government Bond 10Y": 3.06
+    },
+    {
+        "GDP Growth Rate": 4.2
+    },
+    {
+        "GDP Annual Growth Rate": 2.9
+    },
+    {
+        "GDP": 19391
+    },
+    {
+        "GDP Constant Prices": 18515
+    },
+    {
+        "Gross National Product": 18768
+    },
+    {
+        "Gross Fixed Capital Formation": 3321
+    },
+    {
+        "GDP per capita": 53129
+    },
+    {
+        "GDP per capita PPP": 54225
+    },
+    {
+        "GDP From Agriculture": 150
+    },
+    {
+        "GDP From Construction": 667
+    },
+    {
+        "GDP From Manufacturing": 2000
+    },
+    {
+        "GDP From Mining": 392
+    },
+    {
+        "GDP From Public Administration": 2084
+    },
+    {
+        "GDP From Services": 11786
+    },
+    {
+        "GDP From Transport": 486
+    },
+    {
+        "GDP From Utilities": 279
+    },
+    {
+        "Unemployment Rate": 3.9
+    },
+    {
+        "Non Farm Payrolls": 201
+    },
+    {
+        "Government Payrolls": -3
+    },
+    {
+        "Nonfarm Payrolls Private": 204
+    },
+    {
+        "Manufacturing Payrolls": -3
+    },
+    {
+        "Initial Jobless Claims": 201
+    },
+    {
+        "Continuing Jobless Claims": 1645
+    },
+    {
+        "ADP Employment Change": 163
+    },
+    {
+        "Employed Persons": 155542
+    },
+    {
+        "Unemployed Persons": 6234
+    },
+    {
+        "Average Hourly Earnings": 0.4
+    },
+    {
+        "Average Weekly Hours": 34.5
+    },
+    {
+        "Labor Force Participation Rate": 62.7
+    },
+    {
+        "Long Term Unemployment Rate": 0.82
+    },
+    {
+        "Youth Unemployment Rate": 8.4
+    },
+    {
+        "Labour Costs": 109
+    },
+    {
+        "Productivity": 105
+    },
+    {
+        "Job Vacancies": 7313
+    },
+    {
+        "Job Offers": 6939
+    },
+    {
+        "Challenger Job Cuts": 38472
+    },
+    {
+        "Wages": 22.73
+    },
+    {
+        "Minimum Wages": 7.25
+    },
+    {
+        "Wage Growth": 4.66
+    },
+    {
+        "Wages in Manufacturing": 21.42
+    },
+    {
+        "Employment Cost Index": 0.6
+    },
+    {
+        "Population": 326
+    },
+    {
+        "Retirement Age Women": 66
+    },
+    {
+        "Retirement Age Men": 66
+    },
+    {
+        "Employment Rate": 60.3
+    },
+    {
+        "Full Time Employment": 128577
+    },
+    {
+        "Living Wage Family": 2240
+    },
+    {
+        "Living Wage Individual": 1540
+    },
+    {
+        "Part Time Employment": 26913
+    },
+    {
+        "Wages High Skilled": 4290
+    },
+    {
+        "Wages Low Skilled": 2090
+    },
+    {
+        "Inflation Rate": 2.7
+    },
+    {
+        "Inflation Rate Mom": 0.2
+    },
+    {
+        "Consumer Price Index CPI": 252
+    },
+    {
+        "Core Consumer Prices": 258
+    },
+    {
+        "Core Inflation Rate": 2.2
+    },
+    {
+        "GDP Deflator": 110
+    },
+    {
+        "Producer Prices": 116
+    },
+    {
+        "Producer Prices Change": 2.8
+    },
+    {
+        "Export Prices": 127
+    },
+    {
+        "Import Prices": 127
+    },
+    {
+        "Food Inflation": 1.4
+    },
+    {
+        "Core Pce Price Index": 110
+    },
+    {
+        "Core Producer Prices": 115
+    },
+    {
+        "CPI Housing Utilities": 260
+    },
+    {
+        "CPI Transportation": 213
+    },
+    {
+        "Inflation Expectations": 3
+    },
+    {
+        "Pce Price Index": 108
+    },
+    {
+        "Interest Rate": 2.25
+    },
+    {
+        "Interbank Rate": 2.38
+    },
+    {
+        "Money Supply M0": 3584502
+    },
+    {
+        "Money Supply M1": 3703
+    },
+    {
+        "Money Supply M2": 14217
+    },
+    {
+        "Banks Balance Sheet": 16794750
+    },
+    {
+        "Central Bank Balance Sheet": 4170556
+    },
+    {
+        "Foreign Exchange Reserves": 124694
+    },
+    {
+        "Loans to Private Sector": 2217
+    },
+    {
+        "Foreign Bond Investment": 18938
+    },
+    {
+        "Private Debt to GDP": 203
+    },
+    {
+        "Balance of Trade": -50082
+    },
+    {
+        "Exports": 211077
+    },
+    {
+        "Imports": 261159
+    },
+    {
+        "Current Account": -101460
+    },
+    {
+        "Current Account to GDP": -2.4
+    },
+    {
+        "External Debt": 19180854
+    },
+    {
+        "Terms of Trade": 107
+    },
+    {
+        "Capital Flows": 52174
+    },
+    {
+        "Foreign Direct Investment": 47253
+    },
+    {
+        "Net Long Term Tic Flows": 74804
+    },
+    {
+        "Gold Reserves": 8134
+    },
+    {
+        "Crude Oil Production": 10674
+    },
+    {
+        "Terrorism Index": 5.43
+    },
+    {
+        "Tourism Revenues": 21491
+    },
+    {
+        "Tourist Arrivals": 6145476
+    },
+    {
+        "Weapons Sales": 12394
+    },
+    {
+        "Government Debt to GDP": 105
+    },
+    {
+        "Government Budget": -3.5
+    },
+    {
+        "Government Budget Value": -214148
+    },
+    {
+        "Government Spending": 3171
+    },
+    {
+        "Government Revenues": 219115
+    },
+    {
+        "Government Debt": 21458850
+    },
+    {
+        "Fiscal Expenditure": 433263
+    },
+    {
+        "Asylum Applications": 6901
+    },
+    {
+        "Credit Rating": 97
+    },
+    {
+        "Government Spending To Gdp": 37.8
+    },
+    {
+        "Military Expenditure": 597178
+    },
+    {
+        "Business Confidence": 61.3
+    },
+    {
+        "Manufacturing PMI": 55.6
+    },
+    {
+        "Non Manufacturing PMI": 58.5
+    },
+    {
+        "Services PMI": 52.9
+    },
+    {
+        "Composite Pmi": 53.4
+    },
+    {
+        "Industrial Production": 4.9
+    },
+    {
+        "Industrial Production Mom": 0.4
+    },
+    {
+        "Manufacturing Production": 3.1
+    },
+    {
+        "Capacity Utilization": 78.08
+    },
+    {
+        "Durable Goods Orders": -1.7
+    },
+    {
+        "Durable Goods Orders Ex Defense": -1
+    },
+    {
+        "Durable Goods Orders Ex Transportation": 0.2
+    },
+    {
+        "Factory Orders Ex Transportation": 0.2
+    },
+    {
+        "Factory Orders": -0.8
+    },
+    {
+        "New Orders": 497754
+    },
+    {
+        "Business Inventories": 0.6
+    },
+    {
+        "Changes in Inventories": -26.93
+    },
+    {
+        "Wholesale Inventories": 0.6
+    },
+    {
+        "Bankruptcies": 22245
+    },
+    {
+        "Corporate Profits": 2013
+    },
+    {
+        "NFIB Business Optimism Index": 109
+    },
+    {
+        "Chicago Fed National Activity Index": 0.18
+    },
+    {
+        "Dallas Fed Manufacturing Index": 28.1
+    },
+    {
+        "Ism New York Index": 76.5
+    },
+    {
+        "NY Empire State Manufacturing Index": 19
+    },
+    {
+        "Philadelphia Fed Manufacturing Index": 22.9
+    },
+    {
+        "Richmond Fed Manufacturing Index": 29
+    },
+    {
+        "Chicago Pmi": 63.6
+    },
+    {
+        "Car Production": 2.45
+    },
+    {
+        "Car Registrations": 446
+    },
+    {
+        "Total Vehicle Sales": 16.72
+    },
+    {
+        "Crude Oil Stocks Change": 1.85
+    },
+    {
+        "Gasoline Stocks Change": 1530
+    },
+    {
+        "Natural Gas Stocks Change": 86
+    },
+    {
+        "Leading Economic Index": 124
+    },
+    {
+        "API Crude Oil Stock Change": 2.9
+    },
+    {
+        "Crude Oil Rigs": 866
+    },
+    {
+        "Internet Speed": 18748
+    },
+    {
+        "IP Addresses": 128949703
+    },
+    {
+        "Competitiveness Index": 5.85
+    },
+    {
+        "Competitiveness Rank": 2
+    },
+    {
+        "Corruption Index": 75
+    },
+    {
+        "Corruption Rank": 16
+    },
+    {
+        "Ease of Doing Business": 6
+    },
+    {
+        "Mining Production": 14.1
+    },
+    {
+        "Steel Production": 7275
+    },
+    {
+        "Consumer Confidence": 101
+    },
+    {
+        "Retail Sales MoM": 0.1
+    },
+    {
+        "Retail Sales Ex Autos": 0.3
+    },
+    {
+        "Retail Sales YoY": 6.6
+    },
+    {
+        "Consumer Spending": 12841
+    },
+    {
+        "Disposable Personal Income": 15566
+    },
+    {
+        "Personal Spending": 0.4
+    },
+    {
+        "Personal Income": 0.3
+    },
+    {
+        "Personal Savings": 6.7
+    },
+    {
+        "Consumer Credit": 16.6
+    },
+    {
+        "Private Sector Credit": 9383
+    },
+    {
+        "Bank Lending Rate": 5
+    },
+    {
+        "Economic Optimism Index": 55.7
+    },
+    {
+        "Redbook Index": 5.8
+    },
+    {
+        "Chain Store Sales": 3782
+    },
+    {
+        "Gasoline Prices": 0.75
+    },
+    {
+        "Households Debt To Gdp": 77.3
+    },
+    {
+        "Building Permits": 1229
+    },
+    {
+        "Housing Starts": 1282
+    },
+    {
+        "New Home Sales": 629
+    },
+    {
+        "Pending Home Sales": -2.3
+    },
+    {
+        "Existing Home Sales": 5340
+    },
+    {
+        "Construction Spending": 0.1
+    },
+    {
+        "Housing Index": 0.2
+    },
+    {
+        "Nahb Housing Market Index": 67
+    },
+    {
+        "Mortgage Rate": 4.97
+    },
+    {
+        "Mortgage Applications": 2.9
+    },
+    {
+        "Case Shiller Home Price Index": 214
+    },
+    {
+        "Home Ownership Rate": 64.3
+    },
+    {
+        "Corporate Tax Rate": 21
+    },
+    {
+        "Personal Income Tax Rate": 37
+    },
+    {
+        "Sales Tax Rate": 0
+    },
+    {
+        "Social Security Rate": 15.3
+    },
+    {
+        "Social Security Rate For Companies": 7.65
+    },
+    {
+        "Social Security Rate For Employees": 7.65
+    },
+    {
+        "Precipitation": 75.78
+    },
+    {
+        "Temperature": -1.42
+    }
+]

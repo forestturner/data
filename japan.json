@@ -1,0 +1,440 @@
+[
+    {
+        "GDP Growth Rate": 0.7
+    },
+    {
+        "Unemployment Rate": 2.5
+    },
+    {
+        "Inflation Rate": 1.3
+    },
+    {
+        "Interest Rate": -0.1
+    },
+    {
+        "Balance of Trade": -445
+    },
+    {
+        "Government Debt to GDP": 253
+    },
+    {
+        "Currency": 113
+    },
+    {
+        "Stock Market": 23800
+    },
+    {
+        "Government Bond 10Y": 0.12
+    },
+    {
+        "GDP Growth Rate": 0.7
+    },
+    {
+        "GDP Annual Growth Rate": 1
+    },
+    {
+        "GDP Growth Annualized": 3
+    },
+    {
+        "GDP": 4872
+    },
+    {
+        "GDP Constant Prices": 537599
+    },
+    {
+        "Gross National Product": 562569
+    },
+    {
+        "Gross Fixed Capital Formation": 129862
+    },
+    {
+        "GDP per capita": 48557
+    },
+    {
+        "GDP per capita PPP": 39002
+    },
+    {
+        "GDP From Agriculture": 4272
+    },
+    {
+        "GDP From Construction": 28365
+    },
+    {
+        "GDP From Manufacturing": 107760
+    },
+    {
+        "GDP From Mining": 214
+    },
+    {
+        "GDP From Public Administration": 26248
+    },
+    {
+        "GDP From Services": 21865
+    },
+    {
+        "GDP From Transport": 24251
+    },
+    {
+        "GDP From Utilities": 8743
+    },
+    {
+        "Unemployment Rate": 2.5
+    },
+    {
+        "Employed Persons": 66360
+    },
+    {
+        "Unemployed Persons": 1720
+    },
+    {
+        "Full Time Employment": 22274
+    },
+    {
+        "Part Time Employment": 7270
+    },
+    {
+        "Employment Rate": 60
+    },
+    {
+        "Labor Force Participation Rate": 61.5
+    },
+    {
+        "Youth Unemployment Rate": 3.8
+    },
+    {
+        "Productivity": 99.4
+    },
+    {
+        "Job Vacancies": 964
+    },
+    {
+        "Wages": 431722
+    },
+    {
+        "Minimum Wages": 848
+    },
+    {
+        "Wage Growth": 1.5
+    },
+    {
+        "Wages in Manufacturing": 600465
+    },
+    {
+        "Population": 127
+    },
+    {
+        "Retirement Age Women": 62
+    },
+    {
+        "Retirement Age Men": 62
+    },
+    {
+        "Inflation Rate": 1.3
+    },
+    {
+        "Inflation Rate Mom": 0.5
+    },
+    {
+        "Consumer Price Index CPI": 102
+    },
+    {
+        "Core Consumer Prices": 101
+    },
+    {
+        "Core Inflation Rate": 0.9
+    },
+    {
+        "GDP Deflator": 104
+    },
+    {
+        "Producer Prices": 102
+    },
+    {
+        "Export Prices": 97.1
+    },
+    {
+        "Import Prices": 101
+    },
+    {
+        "Food Inflation": 2.1
+    },
+    {
+        "CPI Housing Utilities": 99.6
+    },
+    {
+        "CPI Transportation": 100
+    },
+    {
+        "Producer Prices Change": 3
+    },
+    {
+        "Interest Rate": -0.1
+    },
+    {
+        "Interbank Rate": -0.04
+    },
+    {
+        "Money Supply M0": 99978
+    },
+    {
+        "Money Supply M1": 759410
+    },
+    {
+        "Money Supply M2": 1006108
+    },
+    {
+        "Money Supply M3": 1337718
+    },
+    {
+        "Central Bank Balance Sheet": 550936
+    },
+    {
+        "Foreign Exchange Reserves": 1259300
+    },
+    {
+        "Loans to Private Sector": 458295
+    },
+    {
+        "Deposit Interest Rate": 0.3
+    },
+    {
+        "Foreign Stock Investment": -1482
+    },
+    {
+        "Foreign Bond Investment": 2312
+    },
+    {
+        "Loan Growth": 2.2
+    },
+    {
+        "Private Debt to GDP": 229
+    },
+    {
+        "Balance of Trade": -445
+    },
+    {
+        "Exports": 6692
+    },
+    {
+        "Imports": 7136
+    },
+    {
+        "Current Account": 2010
+    },
+    {
+        "Current Account to GDP": 4.02
+    },
+    {
+        "External Debt": 426882
+    },
+    {
+        "Terms of Trade": 96
+    },
+    {
+        "Capital Flows": -8462
+    },
+    {
+        "Foreign Direct Investment": 11334
+    },
+    {
+        "Tourism Revenues": 17929000
+    },
+    {
+        "Tourist Arrivals": 2577800
+    },
+    {
+        "Gold Reserves": 765
+    },
+    {
+        "Crude Oil Production": 4
+    },
+    {
+        "Terrorism Index": 3.6
+    },
+    {
+        "Government Debt to GDP": 253
+    },
+    {
+        "Government Budget": -4.5
+    },
+    {
+        "Government Budget Value": -113831
+    },
+    {
+        "Government Spending": 106792
+    },
+    {
+        "Asylum Applications": 759
+    },
+    {
+        "Credit Rating": 77.62
+    },
+    {
+        "Government Spending To Gdp": 39.05
+    },
+    {
+        "Military Expenditure": 46556
+    },
+    {
+        "Business Confidence": 21
+    },
+    {
+        "Manufacturing PMI": 52.9
+    },
+    {
+        "Services Pmi": 51.5
+    },
+    {
+        "Industrial Production": 2.2
+    },
+    {
+        "Industrial Production Mom": -0.2
+    },
+    {
+        "Manufacturing Production": 2.4
+    },
+    {
+        "Capacity Utilization": 99.2
+    },
+    {
+        "New Orders": 1139
+    },
+    {
+        "Machinery Orders": 11
+    },
+    {
+        "Changes in Inventories": 443
+    },
+    {
+        "Bankruptcies": 694
+    },
+    {
+        "Corporate Profits": 26401
+    },
+    {
+        "Coincident Index": 116
+    },
+    {
+        "Economy Watchers Survey": 48.1
+    },
+    {
+        "Car Production": 702993
+    },
+    {
+        "Car Registrations": 200355
+    },
+    {
+        "Leading Economic Index": 104
+    },
+    {
+        "Small Business Sentiment": 14
+    },
+    {
+        "Internet Speed": 20172
+    },
+    {
+        "IP Addresses": 43689566
+    },
+    {
+        "Cement Production": 5196
+    },
+    {
+        "Competitiveness Index": 5.49
+    },
+    {
+        "Competitiveness Rank": 9
+    },
+    {
+        "Composite Pmi": 52
+    },
+    {
+        "Corruption Index": 73
+    },
+    {
+        "Corruption Rank": 20
+    },
+    {
+        "Ease of Doing Business": 34
+    },
+    {
+        "Mining Production": -10.1
+    },
+    {
+        "Non Manufacturing Pmi": 24
+    },
+    {
+        "Private Investment": 12.8
+    },
+    {
+        "Steel Production": 8420
+    },
+    {
+        "Consumer Confidence": 43.3
+    },
+    {
+        "Retail Sales MoM": 0.1
+    },
+    {
+        "Retail Sales YoY": 1.5
+    },
+    {
+        "Household Spending": 0.1
+    },
+    {
+        "Consumer Spending": 301316
+    },
+    {
+        "Disposable Personal Income": 485
+    },
+    {
+        "Personal Savings": 31.6
+    },
+    {
+        "Bank Lending Rate": 1
+    },
+    {
+        "Consumer Credit": 334396
+    },
+    {
+        "Gasoline Prices": 1.36
+    },
+    {
+        "Households Debt To Gdp": 57.4
+    },
+    {
+        "Housing Starts": -0.7
+    },
+    {
+        "Construction Orders": -9.3
+    },
+    {
+        "Housing Index": 112
+    },
+    {
+        "Home Ownership Rate": 61.7
+    },
+    {
+        "Corporate Tax Rate": 30.86
+    },
+    {
+        "Personal Income Tax Rate": 55.95
+    },
+    {
+        "Sales Tax Rate": 8
+    },
+    {
+        "Social Security Rate": 29.2
+    },
+    {
+        "Social Security Rate For Companies": 14.75
+    },
+    {
+        "Social Security Rate For Employees": 14.45
+    },
+    {
+        "Precipitation": 102
+    },
+    {
+        "Temperature": 4.06
+    }
+]
