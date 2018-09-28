@@ -20,9 +20,7 @@ axios.get(currentURl)
                 }
             })
             if(USAURL !== currentURl) {
-                console.log(data)
                 data = convertCurrencyToUSD(data)
-                console.log(data)
             }
             fs.writeFile(`${currentURl.split('/')[3]}.json`, 
                           JSON.stringify(data, null, 4), 
@@ -82,6 +80,3 @@ function convertCurrencyToUSD(incomingData) {
     }
     return incomingData
 }
-//
-
-  // Convert none USD fields to USD standard for comparison
