@@ -25,8 +25,8 @@ axios.get(currentURl)
                 console.log(data)
             }
             fs.writeFile(`${currentURl.split('/')[3]}.json`, 
-                          JSON.stringify(data, null, 4), 
-                          (err)=> console.log('File successfully created'))
+                        JSON.stringify(data, null, 4), 
+                        (err)=> console.log('File successfully created'))
     }
 }, (error) => console.log(err) );
 
