@@ -1,0 +1,1969 @@
+{
+    "": {
+        "product": "",
+        "rarity": "",
+        "marketPrice": "",
+        "buylistMarketPrice": "",
+        "medianPrice": ""
+    },
+    "Affectionate Indrik": {
+        "product": "Affectionate Indrik",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    },
+    "Angel Token": {
+        "product": "Angel Token",
+        "rarity": "T",
+        "marketPrice": 0.12,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.22
+    },
+    "Arboretum Elemental": {
+        "product": "Arboretum Elemental",
+        "rarity": "U",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Arclight Phoenix": {
+        "product": "Arclight Phoenix",
+        "rarity": "M",
+        "marketPrice": 2.94,
+        "buylistMarketPrice": 0.94,
+        "medianPrice": 3.52
+    },
+    "Artful Takedown": {
+        "product": "Artful Takedown",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Assassin's Trophy": {
+        "product": "Assassin's Trophy",
+        "rarity": "R",
+        "marketPrice": 19.21,
+        "buylistMarketPrice": 14.02,
+        "medianPrice": 23.03
+    },
+    "Assure // Assemble": {
+        "product": "Assure // Assemble",
+        "rarity": "R",
+        "marketPrice": 0.16,
+        "buylistMarketPrice": 0.12,
+        "medianPrice": 0.29
+    },
+    "Attendant of Vraska": {
+        "product": "Attendant of Vraska",
+        "rarity": "U",
+        "marketPrice": 0.12,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.2
+    },
+    "Aurelia, Exemplar of Justice": {
+        "product": "Aurelia, Exemplar of Justice",
+        "rarity": "M",
+        "marketPrice": 11.24,
+        "buylistMarketPrice": 6.16,
+        "medianPrice": 14.5
+    },
+    "Barging Sergeant": {
+        "product": "Barging Sergeant",
+        "rarity": "C",
+        "marketPrice": 0.09,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Barrier of Bones": {
+        "product": "Barrier of Bones",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Bartizan Bats": {
+        "product": "Bartizan Bats",
+        "rarity": "C",
+        "marketPrice": 0.03,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Beacon Bolt": {
+        "product": "Beacon Bolt",
+        "rarity": "U",
+        "marketPrice": 0.1,
+        "buylistMarketPrice": 0.04,
+        "medianPrice": 0.15
+    },
+    "Beamsplitter Mage": {
+        "product": "Beamsplitter Mage",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    },
+    "Beast Whisperer": {
+        "product": "Beast Whisperer",
+        "rarity": "R",
+        "marketPrice": 0.94,
+        "buylistMarketPrice": 0.16,
+        "medianPrice": 1.02
+    },
+    "Bird Illusion Token": {
+        "product": "Bird Illusion Token",
+        "rarity": "T",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.18
+    },
+    "Blade Instructor": {
+        "product": "Blade Instructor",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.12
+    },
+    "Blood Operative": {
+        "product": "Blood Operative",
+        "rarity": "R",
+        "marketPrice": 0.65,
+        "buylistMarketPrice": 0.25,
+        "medianPrice": 0.8
+    },
+    "Book Devourer": {
+        "product": "Book Devourer",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Boros Challenger": {
+        "product": "Boros Challenger",
+        "rarity": "U",
+        "marketPrice": 0.15,
+        "buylistMarketPrice": 0.04,
+        "medianPrice": 0.2
+    },
+    "Boros Guildgate (243)": {
+        "product": "Boros Guildgate (243)",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Boros Guildgate (244)": {
+        "product": "Boros Guildgate (244)",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Boros Locket": {
+        "product": "Boros Locket",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Bounty Agent": {
+        "product": "Bounty Agent",
+        "rarity": "R",
+        "marketPrice": 0.32,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.43
+    },
+    "Bounty of Might": {
+        "product": "Bounty of Might",
+        "rarity": "R",
+        "marketPrice": 0.11,
+        "buylistMarketPrice": 0.13,
+        "medianPrice": 0.25
+    },
+    "Burglar Rat": {
+        "product": "Burglar Rat",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Camaraderie": {
+        "product": "Camaraderie",
+        "rarity": "R",
+        "marketPrice": 0.2,
+        "buylistMarketPrice": 0.12,
+        "medianPrice": 0.29
+    },
+    "Candlelight Vigil": {
+        "product": "Candlelight Vigil",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Capture Sphere": {
+        "product": "Capture Sphere",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.12
+    },
+    "Centaur Peacemaker": {
+        "product": "Centaur Peacemaker",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Chamber Sentry": {
+        "product": "Chamber Sentry",
+        "rarity": "R",
+        "marketPrice": 0.25,
+        "buylistMarketPrice": 0.07,
+        "medianPrice": 0.49
+    },
+    "Chance for Glory": {
+        "product": "Chance for Glory",
+        "rarity": "M",
+        "marketPrice": 1.1,
+        "buylistMarketPrice": 0.72,
+        "medianPrice": 1.75
+    },
+    "Charnel Troll": {
+        "product": "Charnel Troll",
+        "rarity": "R",
+        "marketPrice": 0.46,
+        "buylistMarketPrice": 0.14,
+        "medianPrice": 0.9
+    },
+    "Chemister's Insight": {
+        "product": "Chemister's Insight",
+        "rarity": "U",
+        "marketPrice": 0.42,
+        "buylistMarketPrice": 2.02,
+        "medianPrice": 0.46
+    },
+    "Child of Night": {
+        "product": "Child of Night",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Chromatic Lantern": {
+        "product": "Chromatic Lantern",
+        "rarity": "R",
+        "marketPrice": 3.69,
+        "buylistMarketPrice": 1.78,
+        "medianPrice": 4.19
+    },
+    "Circuitous Route": {
+        "product": "Circuitous Route",
+        "rarity": "U",
+        "marketPrice": 0.16,
+        "buylistMarketPrice": 0.08,
+        "medianPrice": 0.25
+    },
+    "Citywatch Sphinx": {
+        "product": "Citywatch Sphinx",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Citywide Bust": {
+        "product": "Citywide Bust",
+        "rarity": "R",
+        "marketPrice": 0.35,
+        "buylistMarketPrice": 0.1,
+        "medianPrice": 0.5
+    },
+    "Collar the Culprit": {
+        "product": "Collar the Culprit",
+        "rarity": "C",
+        "marketPrice": 0.03,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Command the Storm": {
+        "product": "Command the Storm",
+        "rarity": "C",
+        "marketPrice": 0.03,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Conclave Cavalier": {
+        "product": "Conclave Cavalier",
+        "rarity": "U",
+        "marketPrice": 0.13,
+        "buylistMarketPrice": 0.05,
+        "medianPrice": 0.21
+    },
+    "Conclave Guildmage": {
+        "product": "Conclave Guildmage",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Conclave Tribunal": {
+        "product": "Conclave Tribunal",
+        "rarity": "U",
+        "marketPrice": 0.47,
+        "buylistMarketPrice": 0.08,
+        "medianPrice": 0.49
+    },
+    "Connive // Concoct": {
+        "product": "Connive // Concoct",
+        "rarity": "R",
+        "marketPrice": 0.29,
+        "buylistMarketPrice": 0.3,
+        "medianPrice": 0.38
+    },
+    "Cosmotronic Wave": {
+        "product": "Cosmotronic Wave",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.12
+    },
+    "Crackling Drake": {
+        "product": "Crackling Drake",
+        "rarity": "U",
+        "marketPrice": 0.18,
+        "buylistMarketPrice": 0.08,
+        "medianPrice": 0.22
+    },
+    "Creeping Chill": {
+        "product": "Creeping Chill",
+        "rarity": "U",
+        "marketPrice": 0.22,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.25
+    },
+    "Crush Contraband": {
+        "product": "Crush Contraband",
+        "rarity": "U",
+        "marketPrice": 0.09,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.19
+    },
+    "Crushing Canopy": {
+        "product": "Crushing Canopy",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Darkblade Agent": {
+        "product": "Darkblade Agent",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Dawn of Hope": {
+        "product": "Dawn of Hope",
+        "rarity": "R",
+        "marketPrice": 0.52,
+        "buylistMarketPrice": 0.39,
+        "medianPrice": 0.54
+    },
+    "Dazzling Lights": {
+        "product": "Dazzling Lights",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Dead Weight": {
+        "product": "Dead Weight",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Deadly Visit": {
+        "product": "Deadly Visit",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Deafening Clarion": {
+        "product": "Deafening Clarion",
+        "rarity": "R",
+        "marketPrice": 1.05,
+        "buylistMarketPrice": 0.11,
+        "medianPrice": 1.05
+    },
+    "Demotion": {
+        "product": "Demotion",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Devious Cover-Up": {
+        "product": "Devious Cover-Up",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    },
+    "Devkarin Dissident": {
+        "product": "Devkarin Dissident",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Dimir Guildgate (245)": {
+        "product": "Dimir Guildgate (245)",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Dimir Guildgate (246)": {
+        "product": "Dimir Guildgate (246)",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Dimir Informant": {
+        "product": "Dimir Informant",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Dimir Locket": {
+        "product": "Dimir Locket",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Dimir Spybug": {
+        "product": "Dimir Spybug",
+        "rarity": "U",
+        "marketPrice": 0.15,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.2
+    },
+    "Direct Current": {
+        "product": "Direct Current",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.12
+    },
+    "Discovery // Dispersal": {
+        "product": "Discovery // Dispersal",
+        "rarity": "U",
+        "marketPrice": 0.28,
+        "buylistMarketPrice": 0.06,
+        "medianPrice": 0.25
+    },
+    "Disdainful Stroke": {
+        "product": "Disdainful Stroke",
+        "rarity": "C",
+        "marketPrice": 0.08,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.12
+    },
+    "Disinformation Campaign": {
+        "product": "Disinformation Campaign",
+        "rarity": "U",
+        "marketPrice": 0.1,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.19
+    },
+    "District Guide": {
+        "product": "District Guide",
+        "rarity": "U",
+        "marketPrice": 0.21,
+        "buylistMarketPrice": 0.06,
+        "medianPrice": 0.24
+    },
+    "Divine Visitation": {
+        "product": "Divine Visitation",
+        "rarity": "M",
+        "marketPrice": 4.71,
+        "buylistMarketPrice": 3.02,
+        "medianPrice": 5.99
+    },
+    "Doom Whisperer": {
+        "product": "Doom Whisperer",
+        "rarity": "M",
+        "marketPrice": 19.14,
+        "buylistMarketPrice": 9,
+        "medianPrice": 19.99
+    },
+    "Douser of Lights": {
+        "product": "Douser of Lights",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Dream Eater": {
+        "product": "Dream Eater",
+        "rarity": "M",
+        "marketPrice": 6.68,
+        "buylistMarketPrice": 2.26,
+        "medianPrice": 7.22
+    },
+    "Drowned Secrets": {
+        "product": "Drowned Secrets",
+        "rarity": "R",
+        "marketPrice": 0.26,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.35
+    },
+    "Electrostatic Field": {
+        "product": "Electrostatic Field",
+        "rarity": "U",
+        "marketPrice": 0.12,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.16
+    },
+    "Elf Knight Token": {
+        "product": "Elf Knight Token",
+        "rarity": "T",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Emblem - Ral, Izzet Viceroy": {
+        "product": "Emblem - Ral, Izzet Viceroy",
+        "rarity": "T",
+        "marketPrice": 0.18,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.22
+    },
+    "Emblem - Vraska, Golgari Queen": {
+        "product": "Emblem - Vraska, Golgari Queen",
+        "rarity": "T",
+        "marketPrice": 0.11,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.24
+    },
+    "Emmara, Soul of the Accord": {
+        "product": "Emmara, Soul of the Accord",
+        "rarity": "R",
+        "marketPrice": 1,
+        "buylistMarketPrice": 0.12,
+        "medianPrice": 1.19
+    },
+    "Enhanced Surveillance": {
+        "product": "Enhanced Surveillance",
+        "rarity": "U",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Erratic Cyclops": {
+        "product": "Erratic Cyclops",
+        "rarity": "R",
+        "marketPrice": 0.12,
+        "buylistMarketPrice": 0.02,
+        "medianPrice": 0.25
+    },
+    "Erstwhile Trooper": {
+        "product": "Erstwhile Trooper",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Etrata, the Silencer": {
+        "product": "Etrata, the Silencer",
+        "rarity": "R",
+        "marketPrice": 0.83,
+        "buylistMarketPrice": 0.24,
+        "medianPrice": 0.95
+    },
+    "Expansion // Explosion": {
+        "product": "Expansion // Explosion",
+        "rarity": "R",
+        "marketPrice": 0.56,
+        "buylistMarketPrice": 0.14,
+        "medianPrice": 0.59
+    },
+    "Experimental Frenzy": {
+        "product": "Experimental Frenzy",
+        "rarity": "R",
+        "marketPrice": 4.26,
+        "buylistMarketPrice": 0.37,
+        "medianPrice": 1.95
+    },
+    "Fearless Halberdier": {
+        "product": "Fearless Halberdier",
+        "rarity": "C",
+        "marketPrice": 0.03,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Find // Finality": {
+        "product": "Find // Finality",
+        "rarity": "R",
+        "marketPrice": 1.42,
+        "buylistMarketPrice": 0.16,
+        "medianPrice": 1.55
+    },
+    "Fire Urchin": {
+        "product": "Fire Urchin",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Firemind's Research": {
+        "product": "Firemind's Research",
+        "rarity": "R",
+        "marketPrice": 0.4,
+        "buylistMarketPrice": 0.02,
+        "medianPrice": 0.5
+    },
+    "Flight of Equenauts": {
+        "product": "Flight of Equenauts",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    },
+    "Flower // Flourish": {
+        "product": "Flower // Flourish",
+        "rarity": "U",
+        "marketPrice": 0.13,
+        "buylistMarketPrice": 0.04,
+        "medianPrice": 0.2
+    },
+    "Forest (Deck and Bundle Exclusive)": {
+        "product": "Forest (Deck and Bundle Exclusive)",
+        "rarity": "L",
+        "marketPrice": 0.37,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.5
+    },
+    "Fresh-Faced Recruit": {
+        "product": "Fresh-Faced Recruit",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Garrison Sergeant": {
+        "product": "Garrison Sergeant",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Gatekeeper Gargoyle": {
+        "product": "Gatekeeper Gargoyle",
+        "rarity": "U",
+        "marketPrice": 0.08,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Gateway Plaza": {
+        "product": "Gateway Plaza",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Generous Stray": {
+        "product": "Generous Stray",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.12
+    },
+    "Gird for Battle": {
+        "product": "Gird for Battle",
+        "rarity": "U",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Glaive of the Guildpact": {
+        "product": "Glaive of the Guildpact",
+        "rarity": "U",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.12
+    },
+    "Glowspore Shaman": {
+        "product": "Glowspore Shaman",
+        "rarity": "U",
+        "marketPrice": 0.17,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.25
+    },
+    "Goblin Banneret": {
+        "product": "Goblin Banneret",
+        "rarity": "U",
+        "marketPrice": 0.18,
+        "buylistMarketPrice": 0.04,
+        "medianPrice": 0.24
+    },
+    "Goblin Cratermaker": {
+        "product": "Goblin Cratermaker",
+        "rarity": "U",
+        "marketPrice": 0.24,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.25
+    },
+    "Goblin Electromancer": {
+        "product": "Goblin Electromancer",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    },
+    "Goblin Locksmith": {
+        "product": "Goblin Locksmith",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Goblin Token": {
+        "product": "Goblin Token",
+        "rarity": "T",
+        "marketPrice": 0.08,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.13
+    },
+    "Golgari Findbroker": {
+        "product": "Golgari Findbroker",
+        "rarity": "U",
+        "marketPrice": 0.14,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.2
+    },
+    "Golgari Guildgate (248)": {
+        "product": "Golgari Guildgate (248)",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Golgari Guildgate (249)": {
+        "product": "Golgari Guildgate (249)",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Golgari Locket": {
+        "product": "Golgari Locket",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Golgari Raiders": {
+        "product": "Golgari Raiders",
+        "rarity": "U",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Grappling Sundew": {
+        "product": "Grappling Sundew",
+        "rarity": "U",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Gravitic Punch": {
+        "product": "Gravitic Punch",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Gruesome Menagerie": {
+        "product": "Gruesome Menagerie",
+        "rarity": "R",
+        "marketPrice": 0.3,
+        "buylistMarketPrice": 0.08,
+        "medianPrice": 0.5
+    },
+    "Guild Summit": {
+        "product": "Guild Summit",
+        "rarity": "U",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    },
+    "Guildmages' Forum": {
+        "product": "Guildmages' Forum",
+        "rarity": "R",
+        "marketPrice": 0.42,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.5
+    },
+    "Haazda Marshal": {
+        "product": "Haazda Marshal",
+        "rarity": "U",
+        "marketPrice": 0.08,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Hammer Dropper": {
+        "product": "Hammer Dropper",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.12
+    },
+    "Hatchery Spider": {
+        "product": "Hatchery Spider",
+        "rarity": "R",
+        "marketPrice": 0.13,
+        "buylistMarketPrice": 0.02,
+        "medianPrice": 0.27
+    },
+    "Healer's Hawk": {
+        "product": "Healer's Hawk",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.13
+    },
+    "Hellkite Whelp": {
+        "product": "Hellkite Whelp",
+        "rarity": "U",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    },
+    "Hired Poisoner": {
+        "product": "Hired Poisoner",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Hitchclaw Recluse": {
+        "product": "Hitchclaw Recluse",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "House Guildmage": {
+        "product": "House Guildmage",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Hunted Witness": {
+        "product": "Hunted Witness",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Hypothesizzle": {
+        "product": "Hypothesizzle",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.12
+    },
+    "Inescapable Blaze": {
+        "product": "Inescapable Blaze",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Insect Token": {
+        "product": "Insect Token",
+        "rarity": "T",
+        "marketPrice": 0.09,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Inspiring Unicorn": {
+        "product": "Inspiring Unicorn",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Integrity // Intervention": {
+        "product": "Integrity // Intervention",
+        "rarity": "U",
+        "marketPrice": 0.15,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.25
+    },
+    "Intrusive Packbeast": {
+        "product": "Intrusive Packbeast",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Invert // Invent": {
+        "product": "Invert // Invent",
+        "rarity": "U",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.2
+    },
+    "Ionize": {
+        "product": "Ionize",
+        "rarity": "R",
+        "marketPrice": 2.84,
+        "buylistMarketPrice": 1.13,
+        "medianPrice": 3.54
+    },
+    "Ironshell Beetle": {
+        "product": "Ironshell Beetle",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Island (Deck and Bundle Exclusive)": {
+        "product": "Island (Deck and Bundle Exclusive)",
+        "rarity": "L",
+        "marketPrice": 0.3,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.45
+    },
+    "Izoni, Thousand-Eyed": {
+        "product": "Izoni, Thousand-Eyed",
+        "rarity": "R",
+        "marketPrice": 0.61,
+        "buylistMarketPrice": 0.16,
+        "medianPrice": 0.7
+    },
+    "Izzet Guildgate (251)": {
+        "product": "Izzet Guildgate (251)",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Izzet Guildgate (252)": {
+        "product": "Izzet Guildgate (252)",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Izzet Locket": {
+        "product": "Izzet Locket",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Join Shields": {
+        "product": "Join Shields",
+        "rarity": "U",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Justice Strike": {
+        "product": "Justice Strike",
+        "rarity": "U",
+        "marketPrice": 0.21,
+        "buylistMarketPrice": 0.06,
+        "medianPrice": 0.25
+    },
+    "Knight of Autumn": {
+        "product": "Knight of Autumn",
+        "rarity": "R",
+        "marketPrice": 4.33,
+        "buylistMarketPrice": 2,
+        "medianPrice": 4.99
+    },
+    "Kraul Foragers": {
+        "product": "Kraul Foragers",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Kraul Harpooner": {
+        "product": "Kraul Harpooner",
+        "rarity": "U",
+        "marketPrice": 0.17,
+        "buylistMarketPrice": 0.71,
+        "medianPrice": 0.2
+    },
+    "Kraul Raider": {
+        "product": "Kraul Raider",
+        "rarity": "C",
+        "marketPrice": 0.16,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.2
+    },
+    "Kraul Swarm": {
+        "product": "Kraul Swarm",
+        "rarity": "U",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Lava Coil": {
+        "product": "Lava Coil",
+        "rarity": "U",
+        "marketPrice": 0.4,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.32
+    },
+    "Lazav, the Multifarious": {
+        "product": "Lazav, the Multifarious",
+        "rarity": "M",
+        "marketPrice": 5.06,
+        "buylistMarketPrice": 3.45,
+        "medianPrice": 5.41
+    },
+    "League Guildmage": {
+        "product": "League Guildmage",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Leapfrog": {
+        "product": "Leapfrog",
+        "rarity": "C",
+        "marketPrice": 0.1,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Ledev Champion": {
+        "product": "Ledev Champion",
+        "rarity": "U",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    },
+    "Ledev Guardian": {
+        "product": "Ledev Guardian",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Legion Guildmage": {
+        "product": "Legion Guildmage",
+        "rarity": "U",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.13
+    },
+    "Legion Warboss": {
+        "product": "Legion Warboss",
+        "rarity": "R",
+        "marketPrice": 4.03,
+        "buylistMarketPrice": 1.41,
+        "medianPrice": 4.59
+    },
+    "Light of the Legion": {
+        "product": "Light of the Legion",
+        "rarity": "R",
+        "marketPrice": 0.18,
+        "buylistMarketPrice": 0.09,
+        "medianPrice": 0.25
+    },
+    "Lotleth Giant": {
+        "product": "Lotleth Giant",
+        "rarity": "U",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Loxodon Restorer": {
+        "product": "Loxodon Restorer",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Luminous Bonds": {
+        "product": "Luminous Bonds",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Maniacal Rage": {
+        "product": "Maniacal Rage",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "March of the Multitudes": {
+        "product": "March of the Multitudes",
+        "rarity": "M",
+        "marketPrice": 9.4,
+        "buylistMarketPrice": 3.36,
+        "medianPrice": 13.89
+    },
+    "Mausoleum Secrets": {
+        "product": "Mausoleum Secrets",
+        "rarity": "R",
+        "marketPrice": 1.77,
+        "buylistMarketPrice": 0.84,
+        "medianPrice": 2
+    },
+    "Maximize Altitude": {
+        "product": "Maximize Altitude",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.13
+    },
+    "Maximize Velocity": {
+        "product": "Maximize Velocity",
+        "rarity": "C",
+        "marketPrice": 0.03,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Mephitic Vapors": {
+        "product": "Mephitic Vapors",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Midnight Reaper": {
+        "product": "Midnight Reaper",
+        "rarity": "R",
+        "marketPrice": 0.77,
+        "buylistMarketPrice": 0.26,
+        "medianPrice": 0.95
+    },
+    "Might of the Masses": {
+        "product": "Might of the Masses",
+        "rarity": "U",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Mission Briefing": {
+        "product": "Mission Briefing",
+        "rarity": "R",
+        "marketPrice": 5.23,
+        "buylistMarketPrice": 4.04,
+        "medianPrice": 6.99
+    },
+    "Mnemonic Betrayal": {
+        "product": "Mnemonic Betrayal",
+        "rarity": "M",
+        "marketPrice": 1.98,
+        "buylistMarketPrice": 2.39,
+        "medianPrice": 2.49
+    },
+    "Molderhulk": {
+        "product": "Molderhulk",
+        "rarity": "U",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Moodmark Painter": {
+        "product": "Moodmark Painter",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.12
+    },
+    "Mountain (Deck and Bundle Exclusive)": {
+        "product": "Mountain (Deck and Bundle Exclusive)",
+        "rarity": "L",
+        "marketPrice": 0.26,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.38
+    },
+    "Murmuring Mystic": {
+        "product": "Murmuring Mystic",
+        "rarity": "U",
+        "marketPrice": 0.12,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.2
+    },
+    "Muse Drake": {
+        "product": "Muse Drake",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Narcomoeba": {
+        "product": "Narcomoeba",
+        "rarity": "R",
+        "marketPrice": 0.24,
+        "buylistMarketPrice": 0.02,
+        "medianPrice": 0.46
+    },
+    "Necrotic Wound": {
+        "product": "Necrotic Wound",
+        "rarity": "U",
+        "marketPrice": 0.22,
+        "buylistMarketPrice": 1.26,
+        "medianPrice": 0.25
+    },
+    "Never Happened": {
+        "product": "Never Happened",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Nightveil Predator": {
+        "product": "Nightveil Predator",
+        "rarity": "U",
+        "marketPrice": 0.17,
+        "buylistMarketPrice": 0.06,
+        "medianPrice": 0.24
+    },
+    "Nightveil Sprite": {
+        "product": "Nightveil Sprite",
+        "rarity": "U",
+        "marketPrice": 0.19,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.2
+    },
+    "Niv-Mizzet, Parun": {
+        "product": "Niv-Mizzet, Parun",
+        "rarity": "R",
+        "marketPrice": 1.45,
+        "buylistMarketPrice": 0.32,
+        "medianPrice": 1.75
+    },
+    "Notion Rain": {
+        "product": "Notion Rain",
+        "rarity": "C",
+        "marketPrice": 0.12,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Nullhide Ferox": {
+        "product": "Nullhide Ferox",
+        "rarity": "M",
+        "marketPrice": 8.36,
+        "buylistMarketPrice": 4.06,
+        "medianPrice": 9.25
+    },
+    "Ochran Assassin": {
+        "product": "Ochran Assassin",
+        "rarity": "U",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.18
+    },
+    "Omnispell Adept": {
+        "product": "Omnispell Adept",
+        "rarity": "R",
+        "marketPrice": 0.28,
+        "buylistMarketPrice": 0.02,
+        "medianPrice": 0.45
+    },
+    "Ornery Goblin": {
+        "product": "Ornery Goblin",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Overgrown Tomb": {
+        "product": "Overgrown Tomb",
+        "rarity": "R",
+        "marketPrice": 6.86,
+        "buylistMarketPrice": 3.17,
+        "medianPrice": 7.09
+    },
+    "Pack's Favor": {
+        "product": "Pack's Favor",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Parhelion Patrol": {
+        "product": "Parhelion Patrol",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Passwall Adept": {
+        "product": "Passwall Adept",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Pause for Reflection": {
+        "product": "Pause for Reflection",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Pelt Collector": {
+        "product": "Pelt Collector",
+        "rarity": "R",
+        "marketPrice": 7.34,
+        "buylistMarketPrice": 5.72,
+        "medianPrice": 9.19
+    },
+    "Pilfering Imp": {
+        "product": "Pilfering Imp",
+        "rarity": "U",
+        "marketPrice": 0.09,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.17
+    },
+    "Piston-Fist Cyclops": {
+        "product": "Piston-Fist Cyclops",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Pitiless Gorgon": {
+        "product": "Pitiless Gorgon",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Plaguecrafter": {
+        "product": "Plaguecrafter",
+        "rarity": "U",
+        "marketPrice": 0.37,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.45
+    },
+    "Plains (Deck and Bundle Exclusive)": {
+        "product": "Plains (Deck and Bundle Exclusive)",
+        "rarity": "L",
+        "marketPrice": 0.5,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.5
+    },
+    "Portcullis Vine": {
+        "product": "Portcullis Vine",
+        "rarity": "C",
+        "marketPrice": 0.03,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Precision Bolt": {
+        "product": "Precision Bolt",
+        "rarity": "C",
+        "marketPrice": 0.28,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.25
+    },
+    "Prey Upon": {
+        "product": "Prey Upon",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Price of Fame": {
+        "product": "Price of Fame",
+        "rarity": "U",
+        "marketPrice": 0.21,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.25
+    },
+    "Quasiduplicate": {
+        "product": "Quasiduplicate",
+        "rarity": "R",
+        "marketPrice": 0.31,
+        "buylistMarketPrice": 0.02,
+        "medianPrice": 0.45
+    },
+    "Radical Idea": {
+        "product": "Radical Idea",
+        "rarity": "C",
+        "marketPrice": 0.08,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.13
+    },
+    "Ral, Caller of Storms": {
+        "product": "Ral, Caller of Storms",
+        "rarity": "M",
+        "marketPrice": 7.35,
+        "buylistMarketPrice": "—",
+        "medianPrice": "—"
+    },
+    "Ral, Izzet Viceroy": {
+        "product": "Ral, Izzet Viceroy",
+        "rarity": "M",
+        "marketPrice": 8.88,
+        "buylistMarketPrice": 6.06,
+        "medianPrice": 9.99
+    },
+    "Ral's Dispersal": {
+        "product": "Ral's Dispersal",
+        "rarity": "R",
+        "marketPrice": 0.66,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.83
+    },
+    "Ral's Staticaster": {
+        "product": "Ral's Staticaster",
+        "rarity": "U",
+        "marketPrice": 0.13,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.21
+    },
+    "Rampaging Monument": {
+        "product": "Rampaging Monument",
+        "rarity": "U",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Response // Resurgence": {
+        "product": "Response // Resurgence",
+        "rarity": "R",
+        "marketPrice": 0.36,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.5
+    },
+    "Rhizome Lurcher": {
+        "product": "Rhizome Lurcher",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Righteous Blow": {
+        "product": "Righteous Blow",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.13
+    },
+    "Risk Factor": {
+        "product": "Risk Factor",
+        "rarity": "R",
+        "marketPrice": 6,
+        "buylistMarketPrice": 1.27,
+        "medianPrice": 6
+    },
+    "Ritual of Soot": {
+        "product": "Ritual of Soot",
+        "rarity": "R",
+        "marketPrice": 1.27,
+        "buylistMarketPrice": 0.29,
+        "medianPrice": 1.39
+    },
+    "Roc Charger": {
+        "product": "Roc Charger",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    },
+    "Rosemane Centaur": {
+        "product": "Rosemane Centaur",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    },
+    "Rubblebelt Boar": {
+        "product": "Rubblebelt Boar",
+        "rarity": "C",
+        "marketPrice": 0.02,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Runaway Steam-Kin": {
+        "product": "Runaway Steam-Kin",
+        "rarity": "R",
+        "marketPrice": 4.9,
+        "buylistMarketPrice": 1.48,
+        "medianPrice": 5.35
+    },
+    "Sacred Foundry": {
+        "product": "Sacred Foundry",
+        "rarity": "R",
+        "marketPrice": 7.53,
+        "buylistMarketPrice": 3.72,
+        "medianPrice": 7.99
+    },
+    "Selective Snare": {
+        "product": "Selective Snare",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Selesnya Guildgate (255)": {
+        "product": "Selesnya Guildgate (255)",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Selesnya Guildgate (256)": {
+        "product": "Selesnya Guildgate (256)",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Selesnya Locket": {
+        "product": "Selesnya Locket",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Severed Strands": {
+        "product": "Severed Strands",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Siege Wurm": {
+        "product": "Siege Wurm",
+        "rarity": "C",
+        "marketPrice": 0.08,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.13
+    },
+    "Silent Dart": {
+        "product": "Silent Dart",
+        "rarity": "U",
+        "marketPrice": 0.16,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.25
+    },
+    "Sinister Sabotage": {
+        "product": "Sinister Sabotage",
+        "rarity": "U",
+        "marketPrice": 0.74,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.84
+    },
+    "Skyknight Legionnaire": {
+        "product": "Skyknight Legionnaire",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.13
+    },
+    "Skyline Scout": {
+        "product": "Skyline Scout",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Smelt-Ward Minotaur": {
+        "product": "Smelt-Ward Minotaur",
+        "rarity": "U",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Soldier Token": {
+        "product": "Soldier Token",
+        "rarity": "T",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.16
+    },
+    "Sonic Assault": {
+        "product": "Sonic Assault",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.12
+    },
+    "Spinal Centipede": {
+        "product": "Spinal Centipede",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Sprouting Renewal": {
+        "product": "Sprouting Renewal",
+        "rarity": "U",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Status // Statue": {
+        "product": "Status // Statue",
+        "rarity": "U",
+        "marketPrice": 0.12,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.21
+    },
+    "Steam Vents": {
+        "product": "Steam Vents",
+        "rarity": "R",
+        "marketPrice": 8.18,
+        "buylistMarketPrice": 4.09,
+        "medianPrice": 8.75
+    },
+    "Street Riot": {
+        "product": "Street Riot",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Sumala Woodshaper": {
+        "product": "Sumala Woodshaper",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Sunhome Stalwart": {
+        "product": "Sunhome Stalwart",
+        "rarity": "U",
+        "marketPrice": 0.08,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.18
+    },
+    "Sure Strike": {
+        "product": "Sure Strike",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Swamp (Deck and Bundle Exclusive)": {
+        "product": "Swamp (Deck and Bundle Exclusive)",
+        "rarity": "L",
+        "marketPrice": 0.37,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.45
+    },
+    "Swarm Guildmage": {
+        "product": "Swarm Guildmage",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Swathcutter Giant": {
+        "product": "Swathcutter Giant",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Swiftblade Vindicator": {
+        "product": "Swiftblade Vindicator",
+        "rarity": "R",
+        "marketPrice": 1.19,
+        "buylistMarketPrice": 0.7,
+        "medianPrice": 1.91
+    },
+    "Sworn Companions": {
+        "product": "Sworn Companions",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Tajic, Legion's Edge": {
+        "product": "Tajic, Legion's Edge",
+        "rarity": "R",
+        "marketPrice": 2.24,
+        "buylistMarketPrice": 1.3,
+        "medianPrice": 2.99
+    },
+    "Take Heart": {
+        "product": "Take Heart",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Temple Garden": {
+        "product": "Temple Garden",
+        "rarity": "R",
+        "marketPrice": 5.77,
+        "buylistMarketPrice": 3.01,
+        "medianPrice": 6.05
+    },
+    "Tenth District Guard": {
+        "product": "Tenth District Guard",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Thief of Sanity": {
+        "product": "Thief of Sanity",
+        "rarity": "R",
+        "marketPrice": 2.18,
+        "buylistMarketPrice": 0.79,
+        "medianPrice": 2.49
+    },
+    "Thought Erasure": {
+        "product": "Thought Erasure",
+        "rarity": "U",
+        "marketPrice": 0.59,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.59
+    },
+    "Thoughtbound Phantasm": {
+        "product": "Thoughtbound Phantasm",
+        "rarity": "U",
+        "marketPrice": 0.15,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.24
+    },
+    "Thousand-Year Storm": {
+        "product": "Thousand-Year Storm",
+        "rarity": "M",
+        "marketPrice": 2.31,
+        "buylistMarketPrice": 1.3,
+        "medianPrice": 2.5
+    },
+    "Torch Courier": {
+        "product": "Torch Courier",
+        "rarity": "C",
+        "marketPrice": 0.03,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Trostani Discordant": {
+        "product": "Trostani Discordant",
+        "rarity": "M",
+        "marketPrice": 2.85,
+        "buylistMarketPrice": 1.69,
+        "medianPrice": 3.25
+    },
+    "Truefire Captain": {
+        "product": "Truefire Captain",
+        "rarity": "U",
+        "marketPrice": 0.12,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.17
+    },
+    "Undercity Necrolisk": {
+        "product": "Undercity Necrolisk",
+        "rarity": "U",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.18
+    },
+    "Undercity Uprising": {
+        "product": "Undercity Uprising",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Underrealm Lich": {
+        "product": "Underrealm Lich",
+        "rarity": "M",
+        "marketPrice": 3.97,
+        "buylistMarketPrice": 2.1,
+        "medianPrice": 4.95
+    },
+    "Unexplained Disappearance": {
+        "product": "Unexplained Disappearance",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Unmoored Ego": {
+        "product": "Unmoored Ego",
+        "rarity": "R",
+        "marketPrice": 1.31,
+        "buylistMarketPrice": 0.8,
+        "medianPrice": 1.95
+    },
+    "Urban Utopia": {
+        "product": "Urban Utopia",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Vedalken Mesmerist": {
+        "product": "Vedalken Mesmerist",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Veiled Shade": {
+        "product": "Veiled Shade",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Venerated Loxodon": {
+        "product": "Venerated Loxodon",
+        "rarity": "R",
+        "marketPrice": 1.47,
+        "buylistMarketPrice": 0.35,
+        "medianPrice": 1.82
+    },
+    "Vernadi Shieldmate": {
+        "product": "Vernadi Shieldmate",
+        "rarity": "C",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Vicious Rumors": {
+        "product": "Vicious Rumors",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Vigorspore Wurm": {
+        "product": "Vigorspore Wurm",
+        "rarity": "C",
+        "marketPrice": 0.07,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.11
+    },
+    "Vivid Revival": {
+        "product": "Vivid Revival",
+        "rarity": "R",
+        "marketPrice": 0.12,
+        "buylistMarketPrice": 0.09,
+        "medianPrice": 0.25
+    },
+    "Vraska, Golgari Queen": {
+        "product": "Vraska, Golgari Queen",
+        "rarity": "M",
+        "marketPrice": 10.59,
+        "buylistMarketPrice": 7.84,
+        "medianPrice": 12.25
+    },
+    "Vraska, Regal Gorgon": {
+        "product": "Vraska, Regal Gorgon",
+        "rarity": "M",
+        "marketPrice": 6.87,
+        "buylistMarketPrice": "—",
+        "medianPrice": "—"
+    },
+    "Vraska's Stoneglare": {
+        "product": "Vraska's Stoneglare",
+        "rarity": "R",
+        "marketPrice": 0.63,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.82
+    },
+    "Wall of Mist": {
+        "product": "Wall of Mist",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Wand of Vertebrae": {
+        "product": "Wand of Vertebrae",
+        "rarity": "U",
+        "marketPrice": 0.05,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Wary Okapi": {
+        "product": "Wary Okapi",
+        "rarity": "C",
+        "marketPrice": 0.03,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Watcher in the Mist": {
+        "product": "Watcher in the Mist",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Watery Grave": {
+        "product": "Watery Grave",
+        "rarity": "R",
+        "marketPrice": 8.16,
+        "buylistMarketPrice": 4.03,
+        "medianPrice": 8.59
+    },
+    "Wee Dragonauts": {
+        "product": "Wee Dragonauts",
+        "rarity": "U",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    },
+    "Whisper Agent": {
+        "product": "Whisper Agent",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Whispering Snitch": {
+        "product": "Whispering Snitch",
+        "rarity": "U",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.15
+    },
+    "Wild Ceratok": {
+        "product": "Wild Ceratok",
+        "rarity": "C",
+        "marketPrice": 0.03,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Wishcoin Crab": {
+        "product": "Wishcoin Crab",
+        "rarity": "C",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Wojek Bodyguard": {
+        "product": "Wojek Bodyguard",
+        "rarity": "C",
+        "marketPrice": 0.06,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.1
+    },
+    "Worldsoul Colossus": {
+        "product": "Worldsoul Colossus",
+        "rarity": "U",
+        "marketPrice": 0.04,
+        "buylistMarketPrice": "—",
+        "medianPrice": 0.14
+    }
+}
