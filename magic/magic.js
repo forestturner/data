@@ -15,6 +15,7 @@ async function run() {
         $('.priceGuideDropDown#set option').each((i, elm) => {
             // console.log($(elm).attr('value'));
             // console.log()
+
             arrayOfPages.push(`https://shop.tcgplayer.com/price-guide/magic/${$(elm).val()}`)
         });
     }
@@ -136,6 +137,11 @@ function takeDataFindAverages(data, numberOfCardsPerPack = 15, isMysticPossible 
         rarePercent = parseFloat((0.875 / numberOfCardsPerPack).toFixed(2))
         mysticPercent = parseFloat((0.125 / numberOfCardsPerPack).toFixed(2))
     }
+    console.log('landPercent =', landPercent)
+    console.log('commonPercent=', commonPercent)
+    console.log('uncommonpercent=', uncommonPercent)
+    console.log('rarePercent=', rarePercent)
+    console.log('mysticPercent=', mysticPercent)
     let results = {
         boosterBoxAveragePrice: 0,
         boosterPackAveragePrice: 0,
@@ -182,6 +188,7 @@ function takeDataFindAverages(data, numberOfCardsPerPack = 15, isMysticPossible 
     let rare = averagePrices(data, 'R')
     let mystic = averagePrices(data, 'M')
     let artifacts = averagePrices(data, 'A')
+
     results["landAveragePrice"] = land.averageMarketPrice
     results["landBuylistAveragePrice"] = land.averageBuyListMarketPrice
     results["landMedianAveragePrice"] = land.averageMedianPrice
@@ -209,6 +216,11 @@ function takeDataFindAverages(data, numberOfCardsPerPack = 15, isMysticPossible 
     results["mysticAveragePrice"] = mystic.averageMarketPrice
     results["mysticBuylistAveragePrice"] = mystic.averageBuyListMarketPrice
     results["mysticMedianAveragePrice"] = mystic.averageMedianPrice
+
+
+    for( let key in Object.keys(results)) {
+        results[key] = results[key] || 0
+    }
 
     results["averagePricePerCardPerPack"] = (
         results["landAveragePrice"] * landPercent +
@@ -254,6 +266,7 @@ function averagePrices(data, type) {
 
     for (keyCard of Object.keys(data)) {
         let card = data[keyCard]
+        //console.log('card=', card)
         if (card.rarity === type) {
             totalMarketPrice += card.marketPrice
             totalBuylistMarketPrice += card.buylistMarketPrice 
@@ -269,6 +282,10 @@ function averagePrices(data, type) {
     resultsData["averageBuyListMarketPrice"] = parseFloat((totalBuylistMarketPrice / numberOfCards).toFixed(2))
     resultsData["averageMedianPrice"] = parseFloat((totalMedianPrice / numberOfCards).toFixed(2))
     resultsData["numberOfCards"] = numberOfCards
-    // console.log('resultsData=', resultsData)
+    for( let key of Object.keys(resultsData)) {
+        resultsData[key] = resultsData[key] || 0
+    }
+    console.log('type=', type)
+    console.log('resultsData=', resultsData)
     return resultsData;
 }
